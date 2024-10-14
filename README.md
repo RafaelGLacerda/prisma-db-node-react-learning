@@ -1,4 +1,5 @@
 #start API
+- git clone https://github.com/RafaelGLacerda/prisma-db-node-react-learning.git
 - npm init -y
 - npm i express
 - npm install prisma typescript ts-node @types/node --save-dev
